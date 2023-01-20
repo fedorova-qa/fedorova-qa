@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Barbara (Varvara) 👋
+#### QA Engineer with knowledge of C#
+
+[Посмотреть примеры работ на русском языке](https://github.com/fedorova-qa/work-examples/blob/main/README.md)
 
 <!--
 **fedorova-qa/fedorova-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
